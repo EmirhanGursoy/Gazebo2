@@ -1,0 +1,2 @@
+# Gazebo2
+.gazebo
